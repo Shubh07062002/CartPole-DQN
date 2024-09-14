@@ -112,7 +112,6 @@ The Cart-Pole problem is a well-known reinforcement learning challenge where the
 ## 💬 Let's Connect
 - **LinkedIn**: [Shubham Satish Kumar Mishra](https://www.linkedin.com/in/shubham-mishra-025423246/)
 - **Email**: [shubh07062002@gmail.com](mailto:shubh07062002@gmail.com)
-- **Padlet**: [Shubham's Padlet Profile](https://padlet.com/w9641416/shubham-s-padlet-pitz7jqci9smj4fi)
 
 Feel free to explore, modify, and experiment with the code to enhance the agent's performance! If you have any questions, feel free to reach out.
 

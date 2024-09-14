@@ -4,6 +4,9 @@ This project implements a reinforcement learning agent to solve the classic **Ca
 
 ## 📚 Overview
 
+![AI Cart-Pole Balancing](cartpole_balance.png)
+
+
 The Cart-Pole problem is a well-known reinforcement learning challenge where the goal is to keep a pole balanced on a moving cart. The agent learns to balance the pole using a deep learning-based Q-network. 
 
 ### **Reinforcement Learning Basics**
